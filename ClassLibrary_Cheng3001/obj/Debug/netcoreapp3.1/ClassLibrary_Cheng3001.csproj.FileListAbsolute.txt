@@ -1,0 +1,59 @@
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.exe
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.deps.json
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.runtimeconfig.json
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.runtimeconfig.dev.json
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.ResolveComReference.cache
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfo.cs
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\GradeBook\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.genruntimeconfig.cache
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.ResolveComReference.cache
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfo.cs
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.deps.json
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.deps.json
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.ResolveComReference.cache
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfo.cs
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Midterm_2_Cheng3001\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.deps.json
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.ResolveComReference.cache
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfo.cs
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Freshman\110-2 程式設計\Programming(II)\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.deps.json
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\bin\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.AssemblyReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.ResolveComReference.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.AssemblyInfo.cs
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.dll
+C:\Users\alice\Desktop\Sophomore\Data Structure\ClassLibrary_Cheng3001\obj\Debug\netcoreapp3.1\ClassLibrary_Cheng3001.pdb
